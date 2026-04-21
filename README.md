@@ -44,7 +44,8 @@ It leverages **LangChain** for conversational retrieval and memory, making PDF i
 
 2. **Conversation**
 
-    <img width="1916" height="970" alt="Chat4" src="https://github.com/user-attachments/assets/0bbc2dcb-88da-4240-af15-51bb7eb127dd" />
+   *(Screenshot hidden. Please upload a new screenshot showing a conversation with Harshad's resume!)*
+
 
 3. **PDF Data Translation**
 

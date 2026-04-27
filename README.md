@@ -40,16 +40,16 @@ It leverages **LangChain** for conversational retrieval and memory, making PDF i
 
 1. **Dashboard**
 
-   <img width="1918" height="958" alt="Chat3" src="https://github.com/user-attachments/assets/957db58f-f8eb-44b1-8bc5-954d7384700e" />
+   <img width="1918" height="958" alt="Dashboard" src="assets/1_dashboard.jpg" />
 
 2. **Conversation**
 
-   *(Screenshot hidden. Please upload a new screenshot showing a conversation with Harshad's resume!)*
+   <img width="1918" height="958" alt="Conversation" src="assets/2_conversation.jpg" />
 
 
 3. **PDF Data Translation**
 
-   <img width="1918" height="967" alt="Chat5" src="https://github.com/user-attachments/assets/cc81890c-1ea7-429b-aee5-b106f92889fd" />
+   <img width="1918" height="967" alt="Translation" src="assets/3_translation.jpg" />
 
 ---
 
